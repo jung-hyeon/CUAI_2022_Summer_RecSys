@@ -5,7 +5,7 @@ __📍 Topic:__ 차애캐와 애니메이션 추천 (Recommender for secondary-f
 
 __📍 Background:__ 애니메이션 시청에 긍정적 경험을 확장하기 위해 사용자가 선호할 확률이 높은 캐릭터와 애니메이션을 추천
 
-__📍 Link:__ Short Paper | Codes | Presentation
+__📍 Link:__ [Short Paper](https://github.com/jung-hyeon/CUAI_2022_Summer_RecSys/blob/main/CUAI%205%EA%B8%B0%20RecSys%2010%ED%8C%80%20short%20paper.pdf) | [Codes](https://github.com/jung-hyeon/CUAI_2022_Summer_RecSys/tree/main/code) | [Presentation](https://github.com/jung-hyeon/CUAI_2022_Summer_RecSys/blob/main/RecSys1_%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C.pdf)
 
 ---
 
